@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.sensorgame"
-    compileSdk = 35
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.example.sensorgame"
